@@ -5,3 +5,4 @@ This repository is a compilation of all python projects I did alongside learning
 3. Photo viewer - a basic image viewer application created using tkinter.
 4. Snake - created a little Snake game, using tkinter and pygame.
 5. Database - created a tkinter gui address book that saves, edits and updates records.
+6. Batman logo - used the Numpy and Matplotlib modules to create the Batman logo
